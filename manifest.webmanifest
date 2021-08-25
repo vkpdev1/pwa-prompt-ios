@@ -2,7 +2,6 @@
     "theme_color": "#50e3c2",
     "background_color": "#8b572a",
     "display": "standalone",
-    "scope": "",
     "start_url": ".",
     "name": "Install Prompt IOS",
     "short_name": "Install IOS",
